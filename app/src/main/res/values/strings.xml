@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SplashUI_DBugStation</string>
+    <string name="lvl">LVL</string>
+    <string name="nxt">NXT</string>
+    <string name="tattoo">Tattoo</string>
+    <string name="studio">Studio</string>
+
+</resources>

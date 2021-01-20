@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="lvl">
+
+        <item name="android:textSize">
+            54sp
+        </item>
+
+        <item name="android:letterSpacing">
+            -0.06
+        </item>
+
+        <item name="android:textColor">
+            #FFFFFF
+        </item>
+
+    </style>
+</resources>
